@@ -5,3 +5,11 @@
   background: -o-linear-gradient(top,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
   background: -ms-linear-gradient(top,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
 }
+
+.centro {
+  height: 170px;
+  width: 270px;
+  background: #000;
+  font-size: 48px;
+  text-align: center;
+}
